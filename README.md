@@ -11,7 +11,7 @@ Hello there! 👋 I'm Dima, and I'm thrilled to welcome you to my repository!<br
 <br>
 
 
-<div align="center">
+<div>
 
   <!-- Языки программирования -->
   <h2 style="color: #3498db; margin: 40px 0 25px 0; font-size: 1.8rem;">💻 Languages</h2>
@@ -29,13 +29,14 @@ Hello there! 👋 I'm Dima, and I'm thrilled to welcome you to my repository!<br
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="height: 55px; width: auto; min-width: 220px;">
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" style="height: 55px; width: auto; min-width: 220px;">
     <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX" style="height: 55px; width: auto; min-width: 220px;">
+        <img src="https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" style="height: 55px; width: auto; min-width: 220px;">
   </div>
   
   <!-- Фронтенд -->
   <h2 style="color: #e74c3c; margin: 40px 0 25px 0; font-size: 1.8rem;">🎨 Frontend</h2>
   <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px; justify-items: center; align-items: center; margin: 25px 0 40px 0; padding: 0 20px;">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="height: 55px; width: auto; min-width: 220px;">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="height: 55px; width: auto; min-width: 220px;">
+    <img src="https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff" alt="CSS3" style="height: 55px; width: auto; min-width: 220px;">
   </div>
   
   <!-- Базы данных -->
@@ -61,7 +62,7 @@ Hello there! 👋 I'm Dima, and I'm thrilled to welcome you to my repository!<br
 <br>
 <br>
 
+<h2>GitHub Stats:</h2>
 
-# 📊 GitHub Stats:
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/PlatovD/stats)
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/PlatovD/contributions)
