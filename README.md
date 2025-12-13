@@ -66,3 +66,4 @@ Hello there! 👋 I'm Dima, and I'm thrilled to welcome you to my repository!<br
 
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/PlatovD/stats)
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/PlatovD/contributions)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platovd&layout=compact&card_width=800&bg_color=1a1b1e&text_color=fff&title_color=fff&border_color=1a1b1e)
